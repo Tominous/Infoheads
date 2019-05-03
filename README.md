@@ -27,7 +27,7 @@ How to use:
 # Developers
 Now, on to you.
 
-This plugin is copyrighted (c) 2019 Harry0198 however is a FREE TO USE LICENSE. This plugin come as an as-is package and the copyright licence holder (harry0198) is not liable for any damages it may inflict.
+This plugin is copyrighted (c) 2019 Harry0198 however is a FREE TO USE LICENSE - meaning USE AND ABUSE THE CODE ;). This plugin come as an as-is package and the copyright licence holder (harry0198) is not liable for any damages it may inflict.
 
 Now that's out the way:
 
