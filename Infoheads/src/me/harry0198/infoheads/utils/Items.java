@@ -102,7 +102,7 @@ public class Items {
 
 		ItemStack playerSkull = new ItemStack(Material.PLAYER_HEAD);
 		SkullMeta sm = (SkullMeta) playerSkull.getItemMeta();
-		sm.setOwner("MHF_ArrowRigt");
+		sm.setOwner("MHF_ArrowRight");
 		playerSkull.setItemMeta(sm);
 
 		return playerSkull;
