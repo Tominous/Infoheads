@@ -98,7 +98,7 @@ public class Items {
 	}
 	
 	@SuppressWarnings("deprecation")
-	public ItemStack arrowRightSkull() {
+	public ItemStack arrowRightSkull() { 
 
 		ItemStack playerSkull = new ItemStack(Material.PLAYER_HEAD);
 		SkullMeta sm = (SkullMeta) playerSkull.getItemMeta();
