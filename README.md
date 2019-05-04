@@ -5,7 +5,7 @@ Repository / SourceCode for the plugin Infoheads
 # What is it
 This is a plugin in which when you right click a block (which you configure) it displays a chosen message & command!
 The plugin does this using the Conversation API and listeners
-This plugin is mainly mean't for help for developers / personal use however, it is free to use for any server owners with the correct version
+Check the spigot page for more info
 
 # What Version then?
 This plugin was coded using the 1.13.2 spigot path (I didn't use maven :O shocker!)
@@ -28,8 +28,6 @@ How to use:
 Now, on to you.
 
 READ THE LICENSE!
-
-Now that's out the way:
 
 You do not have to include reference to my name in a project you may make however, it's muchly appreciated!
 After all, this is free code so some credit would be nice ey?
